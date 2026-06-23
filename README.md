@@ -202,7 +202,7 @@ Login:
 
 ```text
 Username: admin
-Password: <generated_password>
+Password: wazuh_user
 ```
 
 The credentials are shown after installation and stored in `wazuh-passwords.txt`. ([Wazuh Documentation][2])
@@ -227,18 +227,3 @@ wazuh-cyber-tools/
 ├── commands/
 └── docs/
 ```
-
-## Screenshots to Add
-
-* VirtualBox VM Settings
-* Ubuntu Installation
-* Wazuh Installation Terminal
-* Dashboard Login Page
-* Agent Management Page
-* Security Events Dashboard
-
-This will make the repository look professional for cybersecurity portfolios and SOC analyst projects.
-
-[1]: https://documentation.wazuh.com/current/quickstart.html?utm_source=chatgpt.com "Quickstart · Wazuh documentation"
-[2]: https://documentation.wazuh.com/current/installation-guide/wazuh-dashboard/installation-assistant.html?utm_source=chatgpt.com "Installing the Wazuh dashboard using the assisted installation method"
-[3]: https://documentation.wazuh.com/current/deployment-options/offline-installation/step-by-step.html?utm_source=chatgpt.com "Install Wazuh components step by step - Offline installation guide"
